@@ -3,7 +3,7 @@
 # Hello Microverse Project
 
 > This is a HTML/CSS project which displays Hello Microverse as its header. There two files called index.html and style.css. The style.css file contains
-> color property for <h1> tag of index.html file. 
+> color property for h1 tag of index.html file. 
 
 
 
