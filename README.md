@@ -10,14 +10,15 @@
 
 ## Built With
 
-- HTML/CSS
+- HTML
+- CSS
+- Visual Studio Code
 
 ## Live Demo (if available)
 
 - No Live Demo
 
 ## Getting Started
-
 
 To get a local copy up and running follow these simple example steps.
 
@@ -28,9 +29,12 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
-### Install
+- open a terminal
+- run ``` git clone https://github.com/mirwaisfarahi/helloWorld-Microverse.git```
+- run ``` cd helloWorld-Microverse```
+- open index.html
 
-- git clone git@github.com:mirwaisfarahi/helloWorld-Microverse.git
+### Install
 
 ### Usage
 
@@ -39,8 +43,6 @@ To get a local copy up and running follow these simple example steps.
 ### Run tests
 
 ### Deployment
-
-
 
 ## Authors
 
